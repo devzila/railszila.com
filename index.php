@@ -1,16 +1,17 @@
-<?php include('inc/header.php'); ?>
+<?php include('header.php'); ?>
       
       <div class="main-video-section">
          <div class="video-area" id="video-area">
-            <div class="player" id="main-video-play" data-property="{videoURL:'https://www.youtube.com/watch?v=FAplyNf7uuE', containment:'#video-area', showControls:false, autoPlay:true, zoom:0, loop:true, mute:true, startAt:7, opacity:1, quality:'low',}"></div>
+            <div class="image" style="background-image:url('/img/code.jpg');">
+            <!-- <div class="player" id="main-video-play" data-property="{videoURL:'https://www.youtube.com/watch?v=FAplyNf7uuE', containment:'#video-area', showControls:false, autoPlay:true, zoom:0, loop:true, mute:true, startAt:7, opacity:1, quality:'low',}"></div> -->
             <div class="main-video-overlay">
                <div class="main-video-content">
                   <div class="container">
                      <div class="white-color">
-                        <h3><strong>Gain a Success with Us!</strong></h3>
-                        <div class="mt-15">
+                        <h3><strong>LOVE BEAUTIFUL CODE? We Do Too !!</strong></h3>
+                   <!--   <div class="mt-15">
                            <h6>Helping firms to solve complex problems & achieve digital growth<br>  by providing remote team of specialists</h6>
-                        </div>
+                        </div> -->
                         <a href="#" class="primary-button button-md mt-30">Become a Partner</a>
                      </div>
                   </div>
@@ -18,11 +19,20 @@
             </div>
          </div>
       </div>
+      <div class="section-block">
+         <div class="container">
+            <div class="section-heading center-holder">
+               <h3>RUBY ON RAILS(ROR) DEVELOPMENT EXPERTS</h3>
+               <p>RailsZila can help your business reach its full potential with our Ruby on Rails application development solutions. We have over 10 years of experience in RoR web and mobile development and an extensive understanding of the RoR framework that translates to quicker and cost-efficient completion of complex application development projects. We practice Agile Methodology and our knowledge and experience in RoR dvelopment go beyond the clean and error-free coding to include exceptional post-deployment maintenance and support. We harness the simplicity of Ruby on Rails to build dynamic, secure and profitable websites and mobile apps for your business.</p>
+            </div>
+         </div>
+      </div>
+      
       <div class="section-block-grey">
          <div class="container">
             <div class="section-heading center-holder">
                <span>Explore Our Services</span>
-               <h3>First class business solutions since 2011</h3>
+               <h3>WHAT WE DO</h3>
                <div class="section-heading-line"></div>
             </div>
             <div class="row mt-60">
@@ -375,4 +385,4 @@
          </div>
       </div>
 
-<?php include('inc/footer.php'); ?>      
+<?php include('footer.php'); ?>      

@@ -1,3 +1,7 @@
-<?php include('inc/header.php'); ?>
-<h2> Coming Soon </h2>
-<?php include('inc/footer.php'); ?>
+<?php include('header.php'); ?>
+
+
+<h1>COMING SOON</h1>
+    
+
+<?php include('footer.php'); ?>

@@ -193,7 +193,7 @@
 .section-heading p {
  font-size: 15px;
  font-weight: 400;
- color: #aaa;
+ color: #0c0c0c;
  line-height: 160%;
  padding-top: 15px;
  margin-bottom: 0px;
@@ -525,21 +525,21 @@
 /*-----------------------------------------7. Helper Classes-------------------------------------------*//*--------------------a) Text-content----------------------*/.text-content p {
  font-size: 14px;
  font-weight: 400;
- color: #999;
+ color: #0e0e0e;
  line-height: 190%;
  margin-bottom: 15px;
 }
 .text-content-big p {
  font-size: 15px;
  font-weight: 400;
- color: #999;
+ color: #0e0e0e;
  line-height: 200%;
  margin-bottom: 15px;
 }
 .text-content-small p {
  font-size: 12px;
  font-weight: 400;
- color: #999;
+ color: #0e0e0e;
  line-height: 200%;
  margin-bottom: 15px;
 }
