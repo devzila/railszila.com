@@ -8,11 +8,13 @@
                <div class="main-video-content">
                   <div class="container">
                      <div class="white-color">
-                        <h3><strong>LOVE BEAUTIFUL CODE? We Do Too !!</strong></h3>
+                        <h4><strong>
+                           We create awesome software with Ruby on Rails - a go-to technology for startups and businesses that require the fastest development possible. <br/>
+                        </strong></h4>
                    <!--   <div class="mt-15">
                            <h6>Helping firms to solve complex problems & achieve digital growth<br>  by providing remote team of specialists</h6>
                         </div> -->
-                        <a href="#" class="primary-button button-md mt-30">Become a Partner</a>
+                        <a href="#" class="primary-button button-md mt-30">LOVE BEAUTIFUL CODE? Let's start</a>
                      </div>
                   </div>
                </div>
